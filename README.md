@@ -15,7 +15,20 @@ The **Quran Recite and Prayers App** is a beautifully designed **Flutter** appli
 - 🛠 **MVC Architecture**: Designed using the Model-View-Controller pattern for clean and maintainable code.
 - 🌐 **Open-Source**: Encourages contributions from the community.
 
----
+## Screenshots
+
+<img src="https://github.com/user-attachments/assets/807e21e5-b4ef-4ded-9ccb-df1593139ccc" alt="Screenshot_2025-01-17_024915" width="100"/>
+<img src="https://github.com/user-attachments/assets/e0c4c99b-02b3-4dfe-b778-afef30c1eab8" alt="Screenshot_2025-01-17_024921" width="100"/>
+<img src="https://github.com/user-attachments/assets/95ee1e95-dfd0-4445-ac6d-a1577c4155fd" alt="Screenshot_2025-01-17_025048" width="100"/>
+<img src="https://github.com/user-attachments/assets/f4b2e695-12dd-4a5b-8949-856fd2d42981" alt="Screenshot_2025-01-17_025458" width="100"/>
+<img src="https://github.com/user-attachments/assets/c94a06ce-7737-4d61-96a0-343c47bb3eb9" alt="Screenshot_2025-01-17_025103" width="100"/>
+<img src="https://github.com/user-attachments/assets/c0647340-bddc-4691-9553-95564a3d5142" alt="Screenshot_2025-01-17_025032" width="100"/>
+<img src="https://github.com/user-attachments/assets/e1484bfb-3bc0-436f-925f-627d3d74329e" alt="Screenshot_2025-01-17_025037" width="100"/>
+<img src="https://github.com/user-attachments/assets/0056b9bc-8422-4cda-8dd7-601b1cd9cc88" alt="Screenshot_2025-01-17_025131" width="100"/>
+<img src="https://github.com/user-attachments/assets/508e0e81-d184-44b0-b0cb-dacd37919113" alt="Screenshot_2025-01-17_025135" width="100"/>
+
+
+
 
 ## Installation
 

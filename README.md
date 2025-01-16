@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # quran_recite_app
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# QuranReciteAndPrayers
+A Flutter-based mobile application designed for Quran recitation and prayer timings. The app includes features like surah navigation, ayah playback with audio, prayer timing integration, and a sleek, user-friendly interface. Built with GetX for state management
+>>>>>>> 28af8da43f4c98f065946e18f37c41a310485ae1

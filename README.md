@@ -125,7 +125,7 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 For any inquiries or feedback, feel free to reach out to the project maintainer:
 
 - **GitHub**: [@samimalikdev](https://github.com/samimalikdev)
-- **Email**: samimalik33334@@gmail.com 
+- **Email**: samimalik33334@gmail.com 
 
 Thank you for using the Quran Recite and Prayers App. May it bring peace and blessings to your spiritual journey, and may it be a source of knowledge and devotion. 🌟
 
